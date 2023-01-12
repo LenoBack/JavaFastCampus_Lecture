@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38c80a61-ec12-4db4-9ba2-740b33de5bf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStandard_Lecture.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/ch08/ArrrayIndexException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/ch08/AutoCloseableObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/ch08/AutoClosetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/ch08/FileExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/ch08/ThrowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter06/ch08/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaStandard_Lecture.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFastCampus_Lecture.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter06/ch08/ArrrayIndexException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter06/ch08/ArrrayIndexException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +28,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2KENu1Afz1PTfGkNuQqzuP9nTfD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,6 +47,88 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Coding\JavaStandard_Lecture" />
+      <recent name="C:\Coding\JavaStandard_Lecture\src" />
+      <recent name="C:\Coding\JavaStandard_Lecture\src\Chapter06\ch08" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThrowException">
+    <configuration name="ArrrayIndexException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter06.ch08.ArrrayIndexException" />
+      <module name="JavaFastCampus_Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter06.ch08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoClosetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter06.ch08.AutoClosetTest" />
+      <module name="JavaFastCampus_Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter06.ch08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter06.ch08.FileExceptionHandling" />
+      <module name="JavaFastCampus_Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter06.ch08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter06.ch08.ThrowException" />
+      <module name="JavaFastCampus_Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter06.ch08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JavaFastCampus_Lecture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JavaFastCampus_Lecture" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThrowException" />
+        <item itemvalue="Application.AutoClosetTest" />
+        <item itemvalue="Application.FileExceptionHandling" />
+        <item itemvalue="Application.ArrrayIndexException" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673536002687</updated>
-      <workItem from="1673536004350" duration="85000" />
+      <workItem from="1673536004350" duration="2767000" />
     </task>
     <servers />
   </component>
